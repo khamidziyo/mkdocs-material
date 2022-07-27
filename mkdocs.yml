@@ -21,7 +21,7 @@
 # Project information
 site_name: Yuridik.uz yordam sahifasi
 site_url: https://help.yuridik.uz
-site_author: Martin Donath
+# site_author: Martin Donath
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
   documentation of your Open Source or commercial project
@@ -31,7 +31,7 @@ site_description: >-
 # repo_url: https://github.com/squidfunk/mkdocs-material
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Martin Donath
+copyright: &copy; 2017 - 2022 "Legal Innovations Centre" MChJ
 
 # Configuration
 theme:
@@ -50,16 +50,16 @@ theme:
   language: en
   features:
     - content.code.annotate
-    # - content.tabs.link
+    - content.tabs.link
     - content.tooltips
-    # - header.autohide
+    - header.autohide
     # - navigation.expand
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     # - navigation.prune
     - navigation.sections
     - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
