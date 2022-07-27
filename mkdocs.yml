@@ -71,7 +71,7 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: ua blue
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
@@ -167,17 +167,18 @@ markdown_extensions:
 nav:
   - Bosh sahifa: index.md
   - Yuristlar uchun:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Browser support: browser-support.md
-    - Philosophy: philosophy.md
-    - Alternatives: alternatives.md
-    - License: license.md
-    - Changelog:
-      - changelog/index.md
-      - How to upgrade: upgrade.md
+    - Loyiha imkoniyatlari: lawyer/getting-started.md
+    - Ro'yxatdan o'tish: lawyer/getting-started.md
+    - Savollar: creating-your-site.md
+    - Arizalar: publishing-your-site.md
+    - Maqolalar: customization.md
+    - Pul yechish: browser-support.md
+    - Chat orqali xizmat: philosophy.md
+    - Profilni tahrirlash: alternatives.md
+    # - License: license.md
+    # - Changelog:
+    #   - changelog/index.md
+    #   - How to upgrade: upgrade.md
   - Mijozlar uchun:
     - Changing the colors: setup/changing-the-colors.md
     - Changing the fonts: setup/changing-the-fonts.md
