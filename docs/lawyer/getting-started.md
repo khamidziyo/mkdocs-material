@@ -1,6 +1,6 @@
 ---
 template: overrides/main.html
-title: Getting started
+title: Loyiha yuristi bo'lish
 ---
 
 # Zamonaviy advokatlik sari
