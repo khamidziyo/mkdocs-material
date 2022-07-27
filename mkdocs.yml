@@ -31,7 +31,7 @@ site_description: >-
 # repo_url: https://github.com/squidfunk/mkdocs-material
 
 # Copyright
-copyright: &copy; 2017 - 2022 "Legal Innovations Centre" MChJ
+copyright: '&copy; 2017 - 2022 "Legal Innovations Centre" MChJ'
 
 # Configuration
 theme:
