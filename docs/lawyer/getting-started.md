@@ -56,6 +56,8 @@ Biror savol egasiga o'zingizning advokatlik xizmatlaringizni taqdim etmoqchi bo'
 
 Faqat advokatlar uchun maxsus xizmat. Agar shaxsiy konsultasiya natijasida oflayn xizmatga ehtiyoj bo'lsa (sudda ishtirok etish, vakillik qilish) Siz chatda mijozga "Kontaktlarni uzatish" tugmasi yordamida bog'lanish ma'lumotlaringizni berishingiz mumkin. Agar mijoz oxir-oqibat sizning ma'lumotingizga ko'ra xizmat uchun haq to'lasa, siz xizmat uchun komissiya to'lashingiz kerak bo'ladi. Ushbu xizmat uchun komissiya to'lovi advokatlik tuzilmasi va Yuridik.uz o'rtasida tuziladigan qo'shimcha shartnoma bilan belgilanadi.
 
-### Yuridik yordam yo'nalishida maqolalar chop etish (<a href="{{ 'lawyer/navigator' | url }}" title="Yuridik Navigator" class="md-button"> Yuridik Navigator maqolalari </a>)
+### Yuridik yordam yo'nalishida maqolalar chop etish ([Yuridik Navigator maqolalari])
 
 Muhim mavzuda maqola chop etish orqali shu maqolani o'qigan mijoz maqola muallifi bo'lgan advokat xizmatidan foydalanish ehtimoligi yuqori. Har bir maqolada muallif nomi to'liq saqlanadi. Muallif nomida advokat sahifasiga olib boruvchi maxsus havola qo'yiladi. (qaysi maqolani chop etish yoki etmaslik yuzasidan Yuridik.uz tahririyati izohsiz mustaqil qaror qabul qilinadi. Tahririyat chop etish rad etilganligi sababini aytish majburiyatini olmaydi)
+
+  [Yuridik Navigator maqolalari]: lawyer/navigator.md
