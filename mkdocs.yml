@@ -88,7 +88,7 @@ theme:
   favicon: assets/favicon.ico
   icon:
     logo: logo
-  logo: assets/logo.svg
+  logo: assets/logo.png
 
 # Plugins
 plugins:
