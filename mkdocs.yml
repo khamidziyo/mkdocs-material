@@ -71,7 +71,7 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: "UA Blue"
+      primary: ua blue
       accent: indigo
       toggle:
         icon: material/brightness-7
