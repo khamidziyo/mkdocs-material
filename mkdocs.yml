@@ -35,10 +35,10 @@ copyright: '&copy; 2017 - 2022 "Legal Innovations Centre" MChJ'
 
 # Configuration
 theme:
-  name: material
-  custom_dir: overrides
-  # name: null
-  # custom_dir: !ENV [THEME_DIR, "material"]
+  # name: material
+  # custom_dir: overrides
+  name: null
+  custom_dir: !ENV [THEME_DIR, "material"]
   # Static files
   static_templates:
     - 404.html
