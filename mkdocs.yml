@@ -119,6 +119,7 @@ extra:
       link: https://www.instagram.com/yuridik.uz/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/yuridik
+  generator: false
 
 # Extensions
 markdown_extensions:
