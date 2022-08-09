@@ -61,3 +61,8 @@ Faqat advokatlar uchun maxsus xizmat. Agar shaxsiy konsultasiya natijasida oflay
 Muhim mavzuda maqola chop etish orqali shu maqolani o'qigan mijoz maqola muallifi bo'lgan advokat xizmatidan foydalanish ehtimoligi yuqori. Har bir maqolada muallif nomi to'liq saqlanadi. Muallif nomida advokat sahifasiga olib boruvchi maxsus havola qo'yiladi. (qaysi maqolani chop etish yoki etmaslik yuzasidan Yuridik.uz tahririyati izohsiz mustaqil qaror qabul qilinadi. Tahririyat chop etish rad etilganligi sababini aytish majburiyatini olmaydi)
 
   [Yuridik Navigator maqolalari]: lawyer/navigator.md
+
+&nbsp;
+{ #feedback style="margin: 0; height: 0" }
+
+  [additional JavaScript]: ../customization.md#additional-javascript
