@@ -1,5 +1,6 @@
 ---
 template: overrides/main.html
+title: Chat orqali konsulatsiya
 ---
 
 # Chat orqali konsulatsiya
