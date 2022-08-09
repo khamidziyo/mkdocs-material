@@ -136,6 +136,9 @@ extra:
       link: https://www.facebook.com/yuridik
   generator: false
 
+extra_javascript:
+  - javascripts/feedback.js
+  
 # Extensions
 markdown_extensions:
   - abbr
