@@ -110,6 +110,21 @@ extra:
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
+    feedback:
+      title: Sahifa foydali bo'ldimi?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Sahifa foydali
+          data: 1
+          note: >-
+            Izohingiz uchun rahmat!
+        - icon: material/emoticon-sad-outline
+          name: Sahifani takomillashtirish kerak
+          data: 0
+          note: >- 
+            Izohingiz uchun rahmat! Iltimos, o'zgartirish borasidagi 
+            fikringizni <a href="https://yuridik.uz/contact" target=_blank>bog'lanish sahifasi</a> 
+            orqali bizga yozing.
   social:
     - icon: fontawesome/brands/telegram
       link: https://t.me/yuridikuz
