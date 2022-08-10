@@ -109,8 +109,8 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: UA-139052190-1
-    # property: G-ZP3HP6W1FY
+    # property: UA-139052190-1
+    property: G-ZP3HP6W1FY
   analytics:
     feedback:
       title: Sahifa foydali bo'ldimi?
