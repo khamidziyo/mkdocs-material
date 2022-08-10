@@ -125,6 +125,15 @@ extra:
             Izohingiz uchun rahmat! Iltimos, o'zgartirish borasidagi 
             fikringizni <a href="https://yuridik.uz/contact" target=_blank>bog'lanish sahifasi</a> 
             orqali bizga yozing.
+  consent:
+    title: Kuki(Cookie) siyosati
+    description: >-
+      Qaysi sahifalar foydali va qaysilari takomillashtirishga muhtojligini aniqlash uchun 
+      saytimiz kukilardan foydalanadi. Hech qanday shaxsni identifikatsiya qilishga doir
+      ma'lumotlar to'planmaydi. Barcha statistikalar anonimdir!
+    actions:
+      - accept
+      - manage
   social:
     - icon: fontawesome/brands/telegram
       link: https://t.me/yuridikuz
