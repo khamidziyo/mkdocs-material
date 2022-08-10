@@ -1,6 +1,6 @@
 ---
 template: overrides/main.html
-title: Loyiha yuristi bo'lish
+title: Loyiha imkoniyatlari
 ---
 
 # Zamonaviy advokatlik sari
