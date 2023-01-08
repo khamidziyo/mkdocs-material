@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Browser support
+# To'lovlar
 
 Material for MkDocs goes at great lengths to support the largest possible range
 of browsers while retaining the simplemost possibilities for customization via
@@ -11,7 +11,7 @@ modern CSS features like [custom properties] and [mask images].
   [custom properties]: https://caniuse.com/css-variables
   [mask images]: https://caniuse.com/mdn-css_properties_mask-image
 
-## Supported browsers
+## To'lovlar miqdori
 
 The following table lists all browsers for which Material for MkDocs offers full
 support, so it can be assumed that all features work without degradation. If you
@@ -20,16 +20,13 @@ please [open an issue]:
 
 <figure markdown>
 
-| Browser                              | Version | Release date |         |        |      Usage |
-| ------------------------------------ | ------: | -----------: | ------: | -----: | ---------: |
-|                                      |         |              | desktop | mobile |    overall |
-| :fontawesome-brands-chrome: Chrome   |     49+ |      03/2016 | 25.65%  | 38.33% |     63.98% |
-| :fontawesome-brands-safari: Safari   |     10+ |      09/2016 |  4.63%  | 14.96% |     19.59% |
-| :fontawesome-brands-edge: Edge       |     79+ |      01/2020 |  3.95%  |    n/a |      3.95% |
-| :fontawesome-brands-firefox: Firefox |     53+ |      04/2017 |  3.40%  |   .30% |      3.70% |
-| :fontawesome-brands-opera: Opera     |     36+ |      03/2016 |  1.44%  |   .01% |      1.45% |
-|                                      |         |              |         |        | __92.67%__ |
-
+|        Xizmatlar turlari             | Darajaga mubofiq platforma to'lovi    |
+| ------------------------------------ | ------: | ------:  | ------: | 
+|                                      |    I    |   II     |  III    |
+| :fontawesome-brands-chrome: Chrome   |   49+   |    49+   | 25.65%  |
+| :fontawesome-brands-safari: Safari   |     10+ |    49+   |  4.63%  |
+| :fontawesome-brands-edge: Edge       |     79+ |    49+   |  3.95%  |
+|                                      |         |          |         |
   <figcaption markdown>
 
 Browser support matrix sourced from [caniuse.com].[^1]
@@ -52,7 +49,7 @@ check the distribution of browser types and versions among your users.
   [caniuse.com]: https://caniuse.com/
   [:is pseudo selector]: https://caniuse.com/css-matches-pseudo
 
-## Other browsers
+## Bank hisobi ma'lumotlari
 
 Albeit your site might not look as perfect as when viewed with a modern browser,
 the following older browser versions might work with some additional effort:
@@ -69,3 +66,35 @@ the following older browser versions might work with some additional effort:
   [:octicons-tag-24: 4.6.3][IE support].
 
   [IE support]: https://github.com/squidfunk/mkdocs-material/releases/tag/4.6.3
+
+## Pul yechish
+
+[Docusaurus] by Facebook is a very popular documentation generator and a good
+choice if you or your company are already using [React] to build your site.
+It will generate a [single page application] which is fundamentally different
+from the site Material for MkDocs generates for you.
+
+__Advantages__
+
+- Very powerful, customizable and extendable
+- Provides many components that aid in technical writing
+- Large and rich ecosystem, backed by Facebook
+
+__Challenges__
+
+- High learning curve, JavaScript knowledge mandatory
+- JavaScript ecosystem is very volatile, rather high maintenance
+- More time needed to get up and running
+
+While [Docusaurus] is one of the best choices when it comes to documentation
+sites that output a single page applications, there are many more solutions,
+including [Docz], [Gatsby], [Vuepress] and [Docsify] that approach
+this problem similarily.
+
+  [Docusaurus]: https://docusaurus.io/
+  [React]: https://reactjs.org/
+  [single page application]: https://en.wikipedia.org/wiki/Single-page_application
+  [Docz]: https://www.docz.site/
+  [Gatsby]: https://www.gatsbyjs.com/
+  [VuePress]: https://vuepress.vuejs.org/
+  [Docsify]: https://docsify.js.org/
